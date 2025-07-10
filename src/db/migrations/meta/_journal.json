@@ -15,6 +15,20 @@
       "when": 1751992592240,
       "tag": "0001_keen_omega_red",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752146857259,
+      "tag": "0002_exotic_madelyne_pryor",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752148423120,
+      "tag": "0003_low_silk_fever",
+      "breakpoints": true
     }
   ]
 }
